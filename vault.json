@@ -1,0 +1,25 @@
+{
+    "salt": "765led3Emewvymc/zOaYgw==",
+    "entries": [
+        {
+            "service": "youtube",
+            "login": "dezer",
+            "password": "gAAAAABqAfuBauI4ZJVLyLTfRlX6AmkSGH78E6M67fWjfnjnxK7RtFjLT7vgpqiEK-B1BQLInImanSttczvL5viZ0V9bM_uyvg=="
+        },
+        {
+            "service": "github",
+            "login": "dezer",
+            "password": "gAAAAABqAfvmWrPHfHCuMRLwBpykvkPNNl9dO9O3S6dVkdX3X_Hc5MG-cLv9cdzG2fYxk_U7Q-Rj4zsT-mi0nTUhCT3YUesMPw=="
+        },
+        {
+            "service": "youtube",
+            "login": "haze",
+            "password": "gAAAAABqAfv9Lu1GCb1QIs3DxeUDqoZJIvAYhpyYZRagav-BxbXtmPrFOrLs-_dPkDfSJTkCLGy9FQjeyLlLT1GsSUP9ciLaOg=="
+        },
+        {
+            "service": "youtube",
+            "login": "dezer",
+            "password": "gAAAAABqAfxY-C5JRscIXI4o_gEYnmAXm7EiBc0bzrjSS44RTNKdY7JITQCtYkHGoxDJJy7gY53CJTM2mbXaKID68GA2wKt8rw=="
+        }
+    ]
+}
